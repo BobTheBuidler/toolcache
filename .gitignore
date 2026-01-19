@@ -6,4 +6,5 @@ dist/
 notebooks/
 future/
 .hypothesis/
+.worktrees
 .worktrees/
